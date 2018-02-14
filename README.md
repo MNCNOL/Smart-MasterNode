@@ -1,2 +1,2 @@
-# Smart-MasterNode
-Some scripts for installing MasterNode automatically
+# BeetleCoin Smart MasterNode
+bash BeetleCoinSmartMN.sh
